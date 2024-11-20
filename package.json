@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "hdwalletprovider": "^1.7.0"
+  }
+}
